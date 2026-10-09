@@ -1,0 +1,7 @@
+{
+  "name": "HECT Certificate Verification",
+  "description": "A secure, blockchain-powered academic certificate verification system with admin controls, student portals, and public verification links.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
